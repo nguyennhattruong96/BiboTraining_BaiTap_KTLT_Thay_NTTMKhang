@@ -1,17 +1,17 @@
-#include "BaiTap_KTLT_0101.h"
+#include"BaiTap_KTLT_0103.h"
 
 #include <iostream>
 #include <string>
-#include <math.h>
 
 using namespace std;
 
 void main()
 {
-	int nam = InputNam("Nhap vao nam : ");
+	int ngay = InputNgay("Nhap vao ngay : ");
 	int thang = InputThang("Nhap vao thang: ");
+	int nam = InputNam("Nhap vao nam : ");
 
-	SoNgay(nam, thang);
+	NgayTruoc(ngay, thang, nam);
 
 	system("pause");
 }
