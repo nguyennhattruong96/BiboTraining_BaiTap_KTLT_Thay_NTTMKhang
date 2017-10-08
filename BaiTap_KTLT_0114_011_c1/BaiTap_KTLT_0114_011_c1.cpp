@@ -1,4 +1,4 @@
-#include "BaiTap_KTLT_0011.h"
+#include "BaiTap_KTLT_0114_011_c1.h"
 
 int Input(string sMessage)
 {
@@ -19,13 +19,8 @@ int Input(string sMessage)
 }
 
 
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
 
-
-double Tong(int n)
+double TongGiaiThua(int n)
 {
 	double s = 0;
 	int gt = 1;
