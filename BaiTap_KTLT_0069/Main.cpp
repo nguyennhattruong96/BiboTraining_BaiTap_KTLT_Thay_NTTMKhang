@@ -8,8 +8,8 @@ using namespace std;
 
 void main()
 {
-	float x = Input("Nhap vao x: ");
-	float n = Input("Nhap vao n: ");
+	int x = Input("Nhap Vao So X : ");
+	int n = Input("Nhap Vao So N : ");
 
 	Tong(x, n);
 

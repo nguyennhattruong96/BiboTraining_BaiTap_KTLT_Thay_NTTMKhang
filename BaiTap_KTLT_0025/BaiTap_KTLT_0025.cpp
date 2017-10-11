@@ -20,8 +20,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-
 void Output(int n)
 {
 	cout << "ket qua la:" << n << endl;
@@ -44,5 +42,5 @@ void TongUocSoChan(int n)
 		}
 	}
 
-	cout << "Tong uoc so le cua " << n << " la: " << s << endl;
+	cout << "Tong Uoc So Le Cua " << n << " La : " << s << endl;
 }

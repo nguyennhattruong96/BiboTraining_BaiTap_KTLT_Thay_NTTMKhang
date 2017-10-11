@@ -9,9 +9,9 @@ using namespace std;
 
 void main()
 {
-	float a = Input("Nhap vao a: ");
-	float b = Input("Nhap vao b: ");
-	float c = Input("Nhap vao c: ");
+	float a = Input("Nhap Vao So a : ");
+	float b = Input("Nhap Vao So b : ");
+	float c = Input("Nhap Vao So c : ");
 
 	GiaiPhuongTrinhBacHai(a, b, c);
 

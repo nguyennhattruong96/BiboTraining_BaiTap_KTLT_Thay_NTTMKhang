@@ -21,18 +21,13 @@ int Input(string sMessage)
 	return n;
 }
 
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
-
 void UocSo(int n)
 {
 	for (int i = 1; i <= n; i++)
 	{
 		if (n % i == 0)
 		{
-			cout << "Uoc So Cua " << n << " La: " << i << endl;
+			cout << "Uoc So Cua " << n << " La : " << i << endl;
 		}
 	}
 }

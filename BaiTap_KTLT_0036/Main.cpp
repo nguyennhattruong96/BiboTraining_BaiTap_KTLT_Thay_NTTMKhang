@@ -8,15 +8,15 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
+	int x = Input("Nhap Vao So Nguyen Duong X : ");
 
 	if (x == 1)
 	{
-		cout << "ket qua phep toan la : 1 " << endl;
+		cout << "Ket Qua Cua Phep Toan La : 1 " << endl;
 	}
 	else
 	{
-		cout << "ket qua la: " << Sum(x) << endl;
+		cout << "Ket Qua Cua Phep Toan La : " << Sum(x) << endl;
 	}
 
 	system("pause");

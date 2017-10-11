@@ -21,7 +21,7 @@ int Inputn(string sMessage)
 
 		if (n < 2)
 		{
-			cout << "So nhap vao la so nho hon 2 hay nhap lai " << endl;
+			cout << "So Nhap Vao La So Nho Hon Hai Xin Nhap Lai " << endl;
 		}
 
 	} while (n < 2);
@@ -37,11 +37,11 @@ void CangBacN(float x, int n)
 
 	if (x > 0)
 	{
-		cout << "Can bac " << n << " cua " << x << " la : " << s << endl;
+		cout << "Can Bac " << n << " Cua " << x << " La : " << s << endl;
 	}
 	else
 	{
-		cout << "Can bac " << n << " cua " << x << " la : " <<"-" << s << endl;
+		cout << "Can Bac " << n << " Cua " << x << " La : " <<"-" << s << endl;
 	}
 }
 

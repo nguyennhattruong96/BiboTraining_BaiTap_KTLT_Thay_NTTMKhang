@@ -42,5 +42,5 @@ void TichUocSole(int n)
 		}
 	}
 
-	cout << "Tich uoc so le cua " << n << " la: " << s << endl;
+	cout << "Tich Uoc So Le Cua " << n << " La: " << s << endl;
 }

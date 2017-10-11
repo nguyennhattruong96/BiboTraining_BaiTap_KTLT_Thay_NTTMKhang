@@ -35,5 +35,5 @@ void Sum(int n)
 		s = sqrt(2 + s);
 	}
 
-	cout << "Tong la: " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }

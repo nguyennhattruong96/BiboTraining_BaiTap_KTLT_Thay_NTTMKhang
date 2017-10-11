@@ -42,5 +42,5 @@ void SoLuongUocSoChang(int n)
 		}
 	}
 
-	cout << "So Luong uoc so Chang cua " << n << " la: " << dem << endl;
+	cout << "So Luong Uoc So Chang Cua " << n << " La : " << dem << endl;
 }

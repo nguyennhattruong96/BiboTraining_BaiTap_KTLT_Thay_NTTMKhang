@@ -34,7 +34,7 @@ void UocSoChung(int a, int b)
 		else
 			b = b - a;
 	}
-	cout << "Uoc Chung Lon Nhat La : " << a << endl;
+	cout << "Uoc Chung Lon Nhat Cua " << a << "," << b << " La : "<< a << endl;
 }
 
 

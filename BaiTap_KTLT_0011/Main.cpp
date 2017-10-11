@@ -2,9 +2,9 @@
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
+	int x = Input("Nhap Vao So Nguyen Duong X : ");
 
-	cout << "Ket qua la: " << Tong(x) << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << Tong(x) << endl;
 
 	system("pause");
 }

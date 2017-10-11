@@ -9,8 +9,8 @@ using namespace std;
 
 void main()
 {
-	float x = Inputx("Nhap Vao X : ");
-	int n = Inputn("Nhap Vao n : ");
+	float x = Inputx("Nhap Vao So X : ");
+	int n = Inputn("Nhap Vao So n : ");
 
 	TinhSin(x, n);
 

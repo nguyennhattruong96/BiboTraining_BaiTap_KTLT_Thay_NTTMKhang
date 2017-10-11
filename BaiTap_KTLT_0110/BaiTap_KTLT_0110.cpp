@@ -12,10 +12,10 @@ void SoPhuongAn()
 				if (i * 1000 + j * 2000 + k * 5000 == 200000)
 				{
 					dem++;
-					cout << "So to 1000 " << i << ",so to 2000 " << j << ",so to 5000 " << k << endl;
+					cout << "So To 1000 " << i << ",So To 2000 " << j << ",So To 5000 " << k << endl;
 				}
 			}
 		}
 	}
-	cout << "Tong so cach ta co la : " << dem << endl;
+	cout << "Tong So Cach Ta Co La : " << dem << endl;
 }

@@ -27,7 +27,7 @@ void HePhuongTrinh(float x)
 		s = -2 * x*x + 4 * x - 9;
 	}
 
-	cout << "Ket Qua La: " << s << endl;
+	cout << "Ket Qua Khi Giai He Phuong Trinh La : " << s << endl;
 }
 
 

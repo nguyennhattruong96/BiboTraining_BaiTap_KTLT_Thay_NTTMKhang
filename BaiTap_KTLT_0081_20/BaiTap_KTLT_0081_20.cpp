@@ -34,7 +34,7 @@ void UocSoChung(int x)
 	{
 		if (x % i == 0)
 		{
-			cout << "Uoc so chung cua " << x << " la: " << i << endl;
+			cout << "Uoc So Chung Cua " << x << " La : " << i << endl;
 		}
 	}
 }

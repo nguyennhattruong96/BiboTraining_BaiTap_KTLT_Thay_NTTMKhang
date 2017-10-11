@@ -1,3 +1,4 @@
+
 #include "BaiTap_KTLT_0081_10.h"
 
 
@@ -24,6 +25,6 @@ void LuyThua(int x, int n)
 
 	kq = pow(x, n);
 
-	cout << "Ket qua la: " << kq << endl;
+	cout << "Ket Qua Cua Phep Luy Thua La : " << kq << endl;
 }
 

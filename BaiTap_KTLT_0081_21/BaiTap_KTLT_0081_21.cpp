@@ -37,6 +37,6 @@ void Sum(int x)
 		}
 	}
 
-	cout << "Tong uoc so chung cua " << x << " la: " << s << endl;
+	cout << "Tong Uoc So Chung Cua " << x << " La : " << s << endl;
 }
 

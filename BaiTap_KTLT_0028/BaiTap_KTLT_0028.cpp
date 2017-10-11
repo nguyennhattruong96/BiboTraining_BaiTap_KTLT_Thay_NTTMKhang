@@ -31,7 +31,7 @@ void TongUocSoNhoHon(int n)
 {
 	int s = 0;
 
-	for (int i = 1; i <= n; i++)
+	for (int i = 1; i < n; i++)
 	{
 		if (n % i == 0)
 
@@ -40,5 +40,5 @@ void TongUocSoNhoHon(int n)
 		}
 	}
 
-	cout << "Tong uoc so nho hon  " << n << " la: " << s << endl;
+	cout << "Tong Uoc So Nho Hon  " << n << " La : " << s << endl;
 }

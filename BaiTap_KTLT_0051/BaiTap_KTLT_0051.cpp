@@ -44,5 +44,5 @@ void SoLonNhat(int n)
 		}
 	}
 
-	cout << "So lon nhat cua so nguyen " << n << " la: " << max << endl;
+	cout << "So Lon Nhat Cua So Nguyen Duong " << n << " La : " << max << endl;
 }

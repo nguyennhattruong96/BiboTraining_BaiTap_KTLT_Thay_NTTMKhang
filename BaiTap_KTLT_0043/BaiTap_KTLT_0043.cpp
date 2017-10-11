@@ -40,5 +40,5 @@ void DemChuSo(int n)
 		n = n / 10;
 	}
 
-	cout << "So Luong Chu So La: " << dem << endl;
+	cout << "So Luong Chu So La : " << dem << endl;
 }

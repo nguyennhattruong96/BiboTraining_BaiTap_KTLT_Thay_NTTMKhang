@@ -27,21 +27,17 @@ void Output(int n)
 }
 
 
-void UocSoLe(int x)
+void UocSoLe(int n)
 {
-	int dem = 0;
-
-	for (int i = 1; i <= x; i++)
+	for (int i = 1; i <= n; i++)
 	{
-		if (x % i == 0)
+		if (n % i == 0)
 		{
 			if (i % 2 != 0)
 			{
-				dem++;
+				cout << "So Uoc So Le Cua " << n << " La : " << i << endl;
 			}
 		}
 	}
-
-	cout << "Uoc so le cua " << x << " la: " << dem << endl;
 }
 

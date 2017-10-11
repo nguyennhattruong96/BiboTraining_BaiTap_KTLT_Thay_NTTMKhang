@@ -39,5 +39,5 @@ void TongChuSo(int n)
 		n = n / 10;
 	}
 
-	cout << "Tong la: " << s << endl;
+	cout << "Tong Cua Tat Ca Cac Chu So La : " << s << endl;
 }

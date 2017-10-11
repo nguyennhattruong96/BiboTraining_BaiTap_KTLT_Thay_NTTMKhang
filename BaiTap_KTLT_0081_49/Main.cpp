@@ -7,7 +7,7 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao day so nguyen duong x: ");
+	int x = Input("Nhap Vao Day So Nguyen Duong X : ");
 
 	SoDauTien(x);
 

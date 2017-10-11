@@ -7,8 +7,8 @@ using namespace std;
 
 void main()
 {
-	float a = Input("Nhap vao a: ");
-	float b = Input("Nhap vao b: ");
+	float a = Input("Nhap Vao So a : ");
+	float b = Input("Nhap Vao So b : ");
 
 	GiaiPhuongTrinhBacNhat(a, b);
 

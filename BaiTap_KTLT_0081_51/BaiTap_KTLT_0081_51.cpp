@@ -45,6 +45,6 @@ void SoLonNhat(int n)
 		soNguyen = soNguyen / 10;
 	}
 
-	cout << "So lon nhat cua chu so cua so nguyen " << n << " la: " << max << endl;
+	cout << "So Lon Nhat Trong Day So Nguyen Duong " << n << " La : " << max << endl;
 }
 

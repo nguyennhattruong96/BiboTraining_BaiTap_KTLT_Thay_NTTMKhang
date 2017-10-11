@@ -7,7 +7,7 @@ using namespace std;
 void main()
 {
 	int n;
-	cout << "Nhap Chieu Cao Cua Tam Giac: ";
+	cout << "Nhap Chieu Cao Cua Tam Giac : ";
 	cin >> n;
 
 	TamGiacCan(n);

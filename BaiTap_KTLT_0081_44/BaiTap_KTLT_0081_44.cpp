@@ -42,5 +42,5 @@ void Sum(int n)
 		soNguyen = soNguyen / 10;
 	}
 
-	cout << "Tong chu so cua so nguyen " << n << " la: " << s << endl;
+	cout << "Tong Cac So Cua So Nguyen Duong  " << n << " La : " << s << endl;
 }

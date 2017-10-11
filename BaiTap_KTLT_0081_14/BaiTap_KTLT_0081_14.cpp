@@ -35,6 +35,6 @@ void Sum(int x, int n)
 		s += pow(x, (2 * i + 1));
 	}
 
-	cout << "Ket qua la: " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }
 

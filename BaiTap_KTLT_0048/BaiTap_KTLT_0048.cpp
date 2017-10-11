@@ -45,5 +45,5 @@ void TichChuSoLe(int n)
 		}
 	}
 
-	cout << "Tich chu so chang " << n << " la: " << s << endl;
+	cout << "Tich Cua Tat Ca Chu So Le " << n << " La : " << s << endl;
 }

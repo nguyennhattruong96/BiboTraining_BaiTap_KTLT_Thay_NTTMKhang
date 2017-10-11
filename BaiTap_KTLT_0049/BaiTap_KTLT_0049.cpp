@@ -40,5 +40,5 @@ void SoDauTien(int n)
 		n = n / 10;
 	}
 
-	cout << "So dau tien cua chu so nguyen la: " << F << endl;
+	cout << "So Dau Cua Chu So Nguyen La : " << F << endl;
 }

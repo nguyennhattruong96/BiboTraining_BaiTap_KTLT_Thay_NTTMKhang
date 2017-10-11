@@ -7,7 +7,7 @@ using namespace std;
 
 void main()
 {
-	int n = Input("Nhap Vao Mot So Nguyen Duong n : ");
+	int n = Input("Nhap Vao Mot So Nguyen Duong N : ");
 	
 	TinhTong(n);
 

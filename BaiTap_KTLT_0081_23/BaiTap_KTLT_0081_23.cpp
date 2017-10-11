@@ -39,6 +39,6 @@ void DemSoLuongUocSo(int x)
 		}
 	}
 
-	cout << "So Luong Uoc So cua " << x << " la: " << dem << endl;
+	cout << "So Luong Uoc So Cua " << x << " La : " << dem << endl;
 }
 

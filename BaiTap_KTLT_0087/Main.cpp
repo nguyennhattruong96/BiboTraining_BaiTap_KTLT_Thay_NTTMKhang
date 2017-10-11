@@ -7,9 +7,7 @@ using namespace std;
 
 void main()
 {
-	int n = 0;
-
-	So_N(n);
+	So_N();
 
 	system("pause");
 }

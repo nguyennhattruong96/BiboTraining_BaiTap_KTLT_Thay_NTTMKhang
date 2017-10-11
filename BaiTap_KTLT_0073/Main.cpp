@@ -6,10 +6,10 @@
 
 void main()
 {
-	int x = Input("nhap vao x:");
-	int n = Input("nhap vao n:");
+	int x = Input("Nhap Vao So X : ");
+	int n = Input("Nhap Vao So N : ");
 
-	cout << "key qua la : " << Tong(x, n) << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << Tong(x, n) << endl;
 
 	system("pause");
 }

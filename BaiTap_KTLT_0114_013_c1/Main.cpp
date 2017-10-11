@@ -7,8 +7,8 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap Vao So Nguyen Duong x :  ");
-	int n = Input("Nhap Vao So Nguyen Duong n : ");
+	int x = Input("Nhap Vao So Nguyen Duong X :  ");
+	int n = Input("Nhap Vao So Nguyen Duong N : ");
 
 	cout << "Ket Qua Cua Phep Toan La : " << TinhTong(x, n) << endl;
 

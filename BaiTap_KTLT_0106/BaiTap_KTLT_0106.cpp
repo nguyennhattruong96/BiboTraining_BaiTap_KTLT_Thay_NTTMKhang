@@ -10,7 +10,7 @@ int Input(string sMessage)
 		cin >> n;
 		if (n < 100 || n > 999)
 		{
-			cout << "So nhap vao khong phai la so nguyen duong  co ba chu so	" << endl;
+			cout << "So Nguyen Duong Nhap Vao Khong Phai La So Nguyen Duong Co Dang Ba Chu So" << endl;
 		}
 	} while (n < 100 || n > 999);
 	return n;

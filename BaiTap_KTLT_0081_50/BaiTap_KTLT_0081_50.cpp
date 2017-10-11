@@ -41,6 +41,6 @@ void SoNghichDao(int n)
 		soNguyen = soNguyen / 10;
 	}
 
-	cout << "So nghich dao cua chu so cua so nguyen " << n << " la: " << nd << endl;
+	cout << "So Nghich Dao Cua Day So Nguyen Duong  " << n << " La : " << nd << endl;
 }
 

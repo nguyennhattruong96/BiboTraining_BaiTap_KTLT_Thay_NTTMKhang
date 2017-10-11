@@ -27,7 +27,7 @@ void Output(int n)
 }
 
 
-void Sum(int n)
+void TongChuSoChang(int n)
 {
 	int soNguyen = n;
 	int soDu = 0;
@@ -39,12 +39,12 @@ void Sum(int n)
 
 		if (soDu % 2 == 0)
 		{
-			s *= soDu;
+			s += soDu;
 		}
 
 		soNguyen = soNguyen / 10;
 	}
 
-	cout << "Tich chu so cua so nguyen chang " << n << " la: " << s << endl;
+	cout << "Tong Tat Ca Cac So Chang Trong So Nguyen Duong " << n << " La : " << s << endl;
 }
 

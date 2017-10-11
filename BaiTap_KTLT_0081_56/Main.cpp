@@ -7,16 +7,16 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao day so nguyen x: ");
+	int x = Input("Nhap Vao Day So Nguyen Duong X : ");
 
 	if (KiemTraSoLe(x))
 	{
-		cout << "Day so nguyen " << x << " toan so le" << endl;
+		cout << "Day So Nguyen Duong " << x << " Toan So Le" << endl;
 	}
 
 	else
 	{
-		cout << "Day so nguyen " << x << " co so chang" << endl;
+		cout << "Day So Nguyen Duong " << x << " Co So Chang" << endl;
 	}
 
 	system("pause");

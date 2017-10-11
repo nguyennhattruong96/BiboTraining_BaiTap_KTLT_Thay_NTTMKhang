@@ -8,10 +8,10 @@ using namespace std;
 
 void main()
 {
-	float x = Input("Nhap vao x: ");
-	int n = Input("Nhap vao n: ");
+	float x = Input("Nhap Vao So Nguyen Duong X : ");
+	int n = Input("Nhap Vao So Nguyen Duong N : ");
 
-	cout << "Ket qua la:" << Sum(x, n) << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << Sum(x, n) << endl;
 
 	system("pause");
 }

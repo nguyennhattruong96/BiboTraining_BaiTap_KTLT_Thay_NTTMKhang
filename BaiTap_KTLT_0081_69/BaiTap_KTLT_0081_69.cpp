@@ -35,6 +35,6 @@ void Tong(int x, int n)
 		s += pow(-1, (i)) * pow(x, (2 * i + 1));
 	}
 
-	cout << "Ket qua cua phep toan la: " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }
 

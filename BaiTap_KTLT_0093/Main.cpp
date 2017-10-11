@@ -8,16 +8,16 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
+	int x = Input("Nhap Vao So X : ");
 
 	if (KiemTraSoNguyenTo(x))
 	{
-		cout << x << " La so nguyen to" << endl;
+		cout << x << " La So Nguyen To" << endl;
 	}
 
 	else
 	{
-		cout << x << " Khong la so nguyen to" << endl;
+		cout << x << " Khong La So Nguyen To" << endl;
 	}
 
 	system("pause");

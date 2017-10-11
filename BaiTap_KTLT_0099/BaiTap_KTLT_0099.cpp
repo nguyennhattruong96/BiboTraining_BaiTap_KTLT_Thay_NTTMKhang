@@ -38,5 +38,5 @@ void InSoTang(int a, int b, int c)
 		c = temp;
 	}
 
-	cout << "Day so tang dan :" << a <<" " << b <<" " << c << endl;
+	cout << "Day So Tang :" << a <<" " << b <<" " << c << endl;
 }

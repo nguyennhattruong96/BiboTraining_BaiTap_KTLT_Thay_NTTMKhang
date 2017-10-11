@@ -7,7 +7,7 @@ using namespace std;
 
 void main()
 {
-	int a = Input("Nhap Vao X : ");
+	int a = Input("Nhap Vao So X : ");
 
 	Sum(a);
 

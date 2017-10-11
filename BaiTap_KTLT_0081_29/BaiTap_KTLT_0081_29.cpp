@@ -45,6 +45,6 @@ void MaxLe(int x)
 		}
 	}
 
-	cout << "So le lon nhat cua uoc so " << x << " la: " << max << endl;
+	cout << "So Le Lon Nhat Trong Tat Ca Cac Uoc So Le Cua " << x << " La : " << max << endl;
 }
 

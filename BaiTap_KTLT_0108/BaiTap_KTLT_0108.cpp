@@ -16,5 +16,5 @@ void LuyThua(double x, double n)
 
 	s = pow(x, n);
 
-	cout << "Ket qua cua " << x << " luy thua " << n << " la : " << s << endl;
+	cout << "Ket Qua Cua Phep Tinh " << x << " Luy Thua " << n << " La : " << s << endl;
 }

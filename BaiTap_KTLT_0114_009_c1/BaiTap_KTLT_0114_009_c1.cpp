@@ -21,11 +21,6 @@ int Input(string sMessage)
 }
 
 
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
-
 
 void TinhTich(int n)
 {

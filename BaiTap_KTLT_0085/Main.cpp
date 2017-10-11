@@ -7,7 +7,7 @@ using namespace std;
 
 void main()
 {
-	int a = Input("Nhap vao thang can Kiem tra: ");
+	int a = Input("Nhap Vao Thang Can Kiem Tra : ");
 
 	KiemTraQuy(a);
 

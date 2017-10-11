@@ -41,6 +41,6 @@ void Tich(int n)
 		soNguyen = soNguyen / 10;
 	}
 
-	cout << "Tich chu so cua so nguyen " << n << " la: " << s << endl;
+	cout << "Tich Cac So Cua So Nguyen Duong " << n << " La : " << s << endl;
 }
 

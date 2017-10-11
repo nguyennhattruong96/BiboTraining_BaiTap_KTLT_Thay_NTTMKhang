@@ -7,9 +7,9 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
+	int x = Input("Nhap Vao So Nguyen Duong X : ");
 
-	cout << "So luong chu so " << x << " la: " << SoLuongChuSo(x) << endl;
+	cout << "So Luong Chu So Cua So Nguyen Duong " << x << " La : " << SoLuongChuSo(x) << endl;
 
 	system("pause");
 }

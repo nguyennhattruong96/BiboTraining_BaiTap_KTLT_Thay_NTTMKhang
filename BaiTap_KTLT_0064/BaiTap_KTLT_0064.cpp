@@ -39,13 +39,13 @@ void GiaiPhuongTrinhBacNhat(float a, float b)
 	{
 		if (b == 0)
 		{
-			cout << "Phuong Trinh co Nghiem la 0" << endl;
+			cout << "Phuong Trinh co Nghiem La 0" << endl;
 		}
 
 		else
 		{
 			x = (-b / a);
-			cout << "Phuong Trinh Co 1 Nghiem la: " << x << endl;
+			cout << "Phuong Trinh Co Mot Nghiem La : " << x << endl;
 		}
 	}
 }

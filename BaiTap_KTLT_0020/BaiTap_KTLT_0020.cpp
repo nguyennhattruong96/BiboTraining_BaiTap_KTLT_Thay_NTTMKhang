@@ -31,7 +31,7 @@ void UocSo(int n)
 	{
 		if (n % i == 0)
 		{
-			cout << "Uoc so cua " << n << " la: " << i << endl;
+			cout << "Uoc So Chung Cua " << n << " La : " << i << endl;
 		}
 	}
 }

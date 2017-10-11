@@ -38,5 +38,5 @@ void TongUocSo(int n)
 		}
 	}
 
-	cout << "Tong cua tat ca uoc so cua " << n << " la: " << s << endl;
+	cout << "Tong Uoc So Chung Cua " << n << " La : " << s << endl;
 }

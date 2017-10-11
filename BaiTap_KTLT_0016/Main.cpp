@@ -8,8 +8,8 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
-	int n = Input("Nhap vao n: ");
+	int x = Input("Nhap Vao So Nguyen Duong X : ");
+	int n = Input("Nhap Vao So Nguyen Duong N : ");
 
 	Sum(x, n);
 

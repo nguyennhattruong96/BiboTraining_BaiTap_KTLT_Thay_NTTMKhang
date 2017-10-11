@@ -8,8 +8,8 @@ using namespace std;
 
 void main()
 {
-	int nam = InputNam("Nhap vao nam : ");
-	int thang = InputThang("Nhap vao thang: ");
+	int nam = InputNam("Nhap Vao Nam : ");
+	int thang = InputThang("Nhap Vao Thang: ");
 
 	SoNgay(nam, thang);
 

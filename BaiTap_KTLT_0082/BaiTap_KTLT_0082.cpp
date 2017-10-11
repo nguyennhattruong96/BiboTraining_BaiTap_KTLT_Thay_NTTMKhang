@@ -32,7 +32,7 @@ void So_Max(int a, int b, int c)
 		max = c;
 	}
 
-	cout << "So Lon Nhat Trong 3 So La: " << max << endl;
+	cout << "So Lon Nhat Trong Ba So "<< a  << "," << b << "," << c <<" La : " << max << endl;
 
 }
 

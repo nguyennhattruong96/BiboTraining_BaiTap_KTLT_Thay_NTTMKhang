@@ -35,7 +35,7 @@ void UocSoLe(int n)
 		{
 			if (i % 2 != 0)
 			{
-				cout << "So uoc so le cua " << n << " la: " << i << endl;
+				cout << "So Uoc So Le Cua " << n << " La: " << i << endl;
 			}
 		}
 	}

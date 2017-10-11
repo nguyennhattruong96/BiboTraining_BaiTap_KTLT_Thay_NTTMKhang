@@ -83,7 +83,7 @@ void NgayTruoc(int ngay, int thang, int nam)
 			{
 				if (nam ==1)
 				{
-					cout << "Ngay truoc do khong ton tai" << endl;
+					cout << "Ngay Truoc Do Khong Ton Tai" << endl;
 				}
 				else
 				{
@@ -144,11 +144,11 @@ void NgayTruoc(int ngay, int thang, int nam)
 					{
 						if (ngay > 29)
 						{
-							cout << "Thang " << thang << " cua nam " << nam << " chi co 29 ngay xin nhap lai " << endl;
+							cout << "Thang " << thang << " Cua Nam " << nam << " Chi Co 29 Ngay Xin Nhap Lai" << endl;
 
-							ngay = InputNgay("Nhap lai ngay : ");
-							thang = InputThang("Nhap lai thang : ");
-							nam = InputNam("Nhap lai nam : ");
+							ngay = InputNgay("Nhap Lai Ngay : ");
+							thang = InputThang("Nhap Lai Thang : ");
+							nam = InputNam("Nhap Lai Nam : ");
 							if (thang != 2)
 								goto KhacThang2;
 						}
@@ -161,11 +161,11 @@ void NgayTruoc(int ngay, int thang, int nam)
 					{
 						if (ngay > 28)
 						{
-							cout << "Thang " << thang << " cua nam " << nam << " chi co 28 ngay xin nhap lai " << endl;
+							cout << "Thang " << thang << " Cua Nam " << nam << " Chi Co 28 Ngay Xin Nhap Lai " << endl;
 
-							ngay = InputNgay("Nhap lai ngay : ");
-							thang = InputThang("Nhap lai thang : ");
-							nam = InputNam("Nhap lai nam : ");
+							ngay = InputNgay("Nhap Lai Ngay : ");
+							thang = InputThang("Nhap Lai Thang : ");
+							nam = InputNam("Nhap Lai Nam : ");
 							if (thang != 2)
 								goto KhacThang2;
 						}
@@ -182,11 +182,11 @@ void NgayTruoc(int ngay, int thang, int nam)
 					{
 						if (ngay > 30)
 						{
-							cout << "Thang nay chi co toi da 30 ngay xin hay nhap lai" << endl;
+							cout << "Thang Nay Chi Co Toi Da 30 Ngay Xin Nhap Lai" << endl;
 
-							ngay = InputNgay("Nhap lai ngay : ");
-							thang = InputThang("Nhap lai thang : ");
-							nam = InputNam("Nhap lai nam : ");
+							ngay = InputNgay("Nhap Lai Ngay : ");
+							thang = InputThang("Nhap Lai Thang : ");
+							nam = InputNam("Nhap Lai Nam : ");
 						}
 					}
 				}
@@ -196,11 +196,11 @@ void NgayTruoc(int ngay, int thang, int nam)
 					{
 						if (ngay > 31)
 						{
-							cout << "Thang nay chi co toi da 31 ngay xin hay nhap lai" << endl;
+							cout << "Thang Nay Chi Co Toi Da 31 Ngay Xin Nhap Lai" << endl;
 
-							ngay = InputNgay("Nhap lai ngay : ");
-							thang = InputThang("Nhap lai thang : ");
-							nam = InputNam("Nhap lai nam : ");
+							ngay = InputNgay("Nhap Lai Ngay : ");
+							thang = InputThang("Nhap Lai Thang : ");
+							nam = InputNam("Nhap Lai Nam : ");
 						}
 					}
 				}
@@ -209,6 +209,6 @@ void NgayTruoc(int ngay, int thang, int nam)
 		}
 	}
 
-	cout << "Ngay truoc do la ngay " << ngay << " thang " << thang << " nam " << nam << endl;
+	cout << "Ngay Truoc Do La Ngay " << ngay << " Thang " << thang << " Nam " << nam << endl;
 }
 

@@ -82,11 +82,11 @@ void KiemTraNgayHopLe(int &ngay, int &thang, int &nam)
 			{
 				if (ngay > 29)
 				{
-					cout << "Thang " << thang << " cua nam " << nam << " chi co 29 ngay xin nhap lai " << endl;
+					cout << "Thang " << thang << " Cua Nam " << nam << " Chi Co 29 Ngay Xin Nhap Lai " << endl;
 
-					ngay = InputNgay("Nhap lai ngay : ");
-					thang = InputThang("Nhap lai thang : ");
-					nam = InputNam("Nhap lai nam : ");
+					ngay = InputNgay("Nhap Lai Ngay : ");
+					thang = InputThang("Nhap Lai Thang : ");
+					nam = InputNam("Nhap Lai nam : ");
 					if (thang != 2)
 						goto KhacThang2;
 				}
@@ -98,11 +98,11 @@ void KiemTraNgayHopLe(int &ngay, int &thang, int &nam)
 			{
 				if (ngay > 28)
 				{
-					cout << "Thang " << thang << " cua nam " << nam << " chi co 28 ngay xin nhap lai " << endl;
+					cout << "Thang " << thang << " Cua Nam " << nam << " Chi Co 28 Ngay Xin Nhap Lai " << endl;
 
-					ngay = InputNgay("Nhap lai ngay : ");
-					thang = InputThang("Nhap lai thang : ");
-					nam = InputNam("Nhap lai nam : ");
+					ngay = InputNgay("Nhap Lai Ngay : ");
+					thang = InputThang("Nhap Lai Thang : ");
+					nam = InputNam("Nhap Lai Nam : ");
 					if (thang != 2)
 						goto KhacThang2;
 				}
@@ -118,11 +118,11 @@ void KiemTraNgayHopLe(int &ngay, int &thang, int &nam)
 			{
 				if (ngay > 30)
 				{
-					cout << "Thang nay chi co toi da 30 ngay xin hay nhap lai" << endl;
+					cout << "Thang Nay Chi Co Toi Da 30 Ngay Xin Nhap Lai" << endl;
 
-					ngay = InputNgay("Nhap lai ngay : ");
-					thang = InputThang("Nhap lai thang : ");
-					nam = InputNam("Nhap lai nam : ");
+					ngay = InputNgay("Nhap Lai Ngay : ");
+					thang = InputThang("Nhap Lai Thang : ");
+					nam = InputNam("Nhap Lai Nam : ");
 				}
 			}
 		}
@@ -132,11 +132,11 @@ void KiemTraNgayHopLe(int &ngay, int &thang, int &nam)
 			{
 				if (ngay > 31)
 				{
-					cout << "Thang nay chi co toi da 31 ngay xin hay nhap lai" << endl;
+					cout << "Thang Nay Chi Co Toi Da 31 Ngay Xin Nhap Lai" << endl;
 
-					ngay = InputNgay("Nhap lai ngay : ");
-					thang = InputThang("Nhap lai thang : ");
-					nam = InputNam("Nhap lai nam : ");
+					ngay = InputNgay("Nhap Lai Ngay : ");
+					thang = InputThang("Nhap Lai Thang : ");
+					nam = InputNam("Nhap Lai Nam : ");
 				}
 			}
 		}
@@ -189,7 +189,7 @@ void NgayThuBaoNhieu(int ngay, int thang, int nam)
 	{
 		NgayThuBaoNhieu++;
 	}
-	cout << "Ngay " << ngay << " thang " << thang << " nam " << nam << " la ngay thu " << NgayThuBaoNhieu << endl;
+	cout << "Ngay " << ngay << " Thang " << thang << " Nam " << nam << " La Ngay Thu : " << NgayThuBaoNhieu << endl;
 }
 
 

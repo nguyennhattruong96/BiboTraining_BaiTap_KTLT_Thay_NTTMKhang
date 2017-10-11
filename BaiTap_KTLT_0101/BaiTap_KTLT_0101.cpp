@@ -57,23 +57,23 @@ void SoNgay(int nam, int thang)
 {
 	if (thang == 1 || thang == 3 || thang == 5 || thang == 7 || thang == 8 || thang == 10 || thang == 12)
 	{
-		cout <<"Thang " << thang << " co 31 ngay trong " << nam << endl;
+		cout <<"Thang " << thang << " Co 31 Ngay Trong " << nam << endl;
 	}
 	else
 	{
 		if (thang == 4 || thang == 6 || thang == 9 || thang == 11)
 		{
-			cout << "Thang " << thang << " co 30 ngay trong " << nam << endl;
+			cout << "Thang " << thang << " Co 30 Ngay Trong " << nam << endl;
 		}
 		else
 		{
 			if (KiemTraNamNhau(nam))
 			{
-				cout << "Thang " << thang << " co 29 ngay trong " << nam << endl;
+				cout << "Thang " << thang << " Co 29 Ngay Trong " << nam << endl;
 			}
 			else
 			{
-				cout << "Thang " << thang << " co 28 ngay trong " << nam << endl;
+				cout << "Thang " << thang << " Co 28 Ngay Trong Nam " << nam << endl;
 			}
 		}
 	}

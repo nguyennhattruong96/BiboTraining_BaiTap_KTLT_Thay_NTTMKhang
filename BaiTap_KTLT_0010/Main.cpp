@@ -7,10 +7,10 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
-	int n = Input("Nhap vao n: ");
+	int x = Input("Nhap Vao So Nguyen Duong X : ");
+	int n = Input("Nhap Vao So Nguyen Duong N : ");
 
-	cout << "Ket qua la: " << LuyThua(x, n) << endl;
+	cout << "Ket Qua Phep Luy Thua La : " << LuyThua(x, n) << endl;
 
 	system("pause");
 

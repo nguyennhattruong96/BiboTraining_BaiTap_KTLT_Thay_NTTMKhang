@@ -39,5 +39,5 @@ void TichChuSo(int n)
 		n = n / 10;
 	}
 
-	cout << "Tich la: " << s << endl;
+	cout << "Tich Cua Tat Ca Cac Chu So La : " << s << endl;
 }

@@ -36,6 +36,6 @@ void Sum(int x)
 		s += 1.0 / (2 * i);
 	}
 
-	cout << "Ket qua la: " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }
 

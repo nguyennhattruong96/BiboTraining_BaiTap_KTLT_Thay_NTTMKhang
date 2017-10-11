@@ -7,7 +7,7 @@ using namespace std;
 
 void main()
 {
-	int n = Input("Nhap Vao N : ");
+	int n = Input("Nhap Vao So N : ");
 
 	So_M(n);
 

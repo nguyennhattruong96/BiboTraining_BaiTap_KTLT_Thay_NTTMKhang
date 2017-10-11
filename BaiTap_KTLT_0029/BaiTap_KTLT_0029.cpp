@@ -42,5 +42,5 @@ void UocSoLonNhat(int n)
 		}
 	}
 
-	cout << "Uoc so le lon nhat cua " << n << " la: " << max << endl;
+	cout << "Uoc So Le Lon Nhat Cua " << n << " La : " << max << endl;
 }

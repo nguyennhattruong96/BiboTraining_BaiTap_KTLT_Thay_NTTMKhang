@@ -39,6 +39,6 @@ void Tich(int x)
 		}
 	}
 
-	cout << "Tich uoc so chung cua " << x << " la: " << s << endl;
+	cout << "Tich Uoc So Chung Cua " << x << " La: " << s << endl;
 }
 

@@ -7,9 +7,9 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao so x: ");
+	int x = Input("Nhap Vao So Nguyen Duong X : ");
 
-	cout << "Ket qua la: " << Sum(x) << endl;
+	cout << "Ket Qua Phep Toan La :  " << Sum(x) << endl;
 
 	system("pause");
 }

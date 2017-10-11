@@ -7,17 +7,17 @@ using namespace std;
 
 void main()
 {
-	int a = Input("Nhap vao a: ");
-	int b = Input("Nhap vao b: ");
+	int a = Input("Nhap Vao So a : ");
+	int b = Input("Nhap Vao So b : ");
 
 	if (KiemTraCungDau(a, b))
 	{
-		cout << "Hai So Nguyen Nay Co Cung Dau" << endl;
+		cout << a << "," << b << " La Hai So Nguyen Cung Dau" << endl;
 	}
 
 	else
 	{
-		cout << "Hai So Nguyen Nay La Hai So Nguyen Trai Dau" << endl;
+		cout << a << "," << b << " La Hai So Nguyen Trai Dau" << endl;
 	}
 
 	system("pause");

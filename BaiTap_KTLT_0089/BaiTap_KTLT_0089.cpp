@@ -39,6 +39,6 @@ void Sum(int x)
 		}
 	}
 
-	cout << "Ket Qua La : " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }
 

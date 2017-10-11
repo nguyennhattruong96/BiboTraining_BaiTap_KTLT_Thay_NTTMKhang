@@ -12,7 +12,7 @@ int Input(string sMessage);
 void Output(int n);
 
 
-void Tich(int n);
+void TongChuSoChang(int n);
 
 #endif // !
 

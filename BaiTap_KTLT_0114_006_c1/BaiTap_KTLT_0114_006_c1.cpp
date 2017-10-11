@@ -24,6 +24,6 @@ void TinhTong(int n)
 		s += 1.0 / (i*(i + 1));
 	}
 
-	cout << "Ket Qua Cua Phep Tinh La : " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }
 

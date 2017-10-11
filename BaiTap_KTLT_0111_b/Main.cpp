@@ -9,7 +9,7 @@ void main()
 {
 	int n;
 
-	n = Input("Nhap Vao Chieu Cao n : ");
+	n = Input("Nhap Vao Chieu Cao N : ");
 
 	TamGiacCanRong(n);
 

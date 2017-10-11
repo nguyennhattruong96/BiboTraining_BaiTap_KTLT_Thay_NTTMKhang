@@ -40,12 +40,12 @@ void SoHoanThien(int n)
 
 	if (s == n)
 	{
-		cout << n << " la so hoan thien" << endl;
+		cout << n << " La So Hoan Thien" << endl;
 	}
 
 	else
 	{
-		cout << n << " khong la so hoan thien" << endl;
+		cout << n << " La So Khong Hoan Thien" << endl;
 	}
 
 }

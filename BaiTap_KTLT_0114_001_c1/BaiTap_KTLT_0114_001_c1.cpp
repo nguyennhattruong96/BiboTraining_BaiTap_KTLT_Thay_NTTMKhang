@@ -26,7 +26,7 @@ void TinhTong(int n)
 	{
 		s += i;
 	}
-	cout << "Ket Qua Cua Phep Tinh La: " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }
 
 

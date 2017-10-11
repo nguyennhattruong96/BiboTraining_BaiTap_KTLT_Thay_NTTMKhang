@@ -38,7 +38,7 @@ void So_M(int n)
 
 	} while (s + m + 1 < n);
 
-	cout << "So Nguyen Duong m La : " << m << endl;
+	cout << "So Nguyen Duong M La : " << m << endl;
 }
 
 

@@ -8,8 +8,8 @@ using namespace std;
 
 void main()
 {
-	double x = Input("Nhap vao so  x : ");
-	double n = Input("Nhap vao so  n : ");
+	double x = Input("Nhap Vao So X : ");
+	double n = Input("Nhap Vao So N : ");
 
 	LuyThua(x, n);
 

@@ -9,16 +9,16 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
+	int x = Input("Nhap Vao So X : ");
 
 	if (KiemTra3k(x) == true)
 	{
-		cout << "So nay co dang 3K" << endl;
+		cout << x << " La So Co Dang 3k" << endl;
 	}
 
 	else
 	{
-		cout << "So nay khong co dang 3K" << endl;
+		cout << x << " La So Khong Co Dang 3K" << endl;
 	}
 
 	system("pause");

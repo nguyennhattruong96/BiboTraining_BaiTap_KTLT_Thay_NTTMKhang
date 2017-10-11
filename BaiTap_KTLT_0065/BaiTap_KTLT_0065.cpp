@@ -41,13 +41,13 @@ void GiaiPhuongTrinhBacHai(float a, float b, float c)
 		{
 			if (c == 0)
 			{
-				cout << "Phuong Trinh co Nghiem la 0" << endl;
+				cout << "Phuong Trinh Co Nghiem La 0" << endl;
 			}
 
 			else
 			{
 				x = (-c / b);
-				cout << "Phuong Trinh Co 1 Nghiem la: " << x << endl;
+				cout << "Phuong Trinh Co Mot Nghiem La : " << x << endl;
 			}
 		}
 	}
@@ -58,7 +58,7 @@ void GiaiPhuongTrinhBacHai(float a, float b, float c)
 
 		if (Delta < 0)
 		{
-			cout << "Phuong trinh vo nghiem" << endl;
+			cout << "Phuong Trinh Vo Nghiem" << endl;
 		}
 
 		else
@@ -66,7 +66,7 @@ void GiaiPhuongTrinhBacHai(float a, float b, float c)
 			if (Delta == 0)
 			{
 				x1 = x2 = -b / 2 * a;
-				cout << "phuong co nghiem kep:" << x1 << endl;
+				cout << " Phuong Trinh Co Nghiem Kep X1 = X2 : " << x1 << endl;
 			}
 
 			else
@@ -74,8 +74,8 @@ void GiaiPhuongTrinhBacHai(float a, float b, float c)
 				x1 = (-b + sqrt(Delta)) / (2 * a);
 				x2 = (-b - sqrt(Delta)) / (2 * a);
 
-				cout << "phuong trinh co nghiem la: " << x1 << endl;
-				cout << "phuong trinh co nghiem la: " << x2 << endl;
+				cout << "Phuong Trinh Co Nghiem X1 : " << x1 << endl;
+				cout << "phuong Trinh Co Nghiem X2 : " << x2 << endl;
 			}
 		}
 	}

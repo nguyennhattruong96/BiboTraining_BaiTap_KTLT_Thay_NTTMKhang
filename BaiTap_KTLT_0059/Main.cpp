@@ -7,16 +7,16 @@ using namespace std;
 
 void main()
 {
-	int x = Input("Nhap vao x: ");
+	int x = Input("Nhap Vao Day So Nguyen Duong X : ");
 
 	if (SoDoiXung(x))
 	{
-		cout << x << " La so doi xung" << endl;
+		cout << x << " La Day So Nguyen Duong Doi Xung" << endl;
 	}
 
 	else
 	{
-		cout << x << " Khong la so doi xung" << endl;
+		cout << x << " La Day So Nguyen Duong Khong Doi Xung" << endl;
 	}
 
 	system("pause");

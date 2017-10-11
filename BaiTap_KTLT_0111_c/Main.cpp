@@ -7,7 +7,7 @@ using namespace std;
 
 void main()
 {
-	int n = Input("Nhap Vao Chieu Cao n:");
+	int n = Input("Nhap Vao Chieu Cao N : ");
 
 	TamGiacVuongCan(n);
 
