@@ -8,22 +8,27 @@ int Input(string sMessage)
 	{
 		cout << sMessage;
 		cin >> n;
+
 		if (n <= 0)
 		{
-			cout << "Day La So Am Hoac So 0 Hay Nhap Lai " << endl;
+			cout << "So Nhap Vao La So Am Hoac So 0 Hay Nhap Lai" << endl;
 		}
+
 	} while (n <= 0);
 
 	return n;
 }
 
-void TinhTong(int n)
+
+double TinhTong(int n)
 {
-	int s = 0;
+
+	double s = 0;
 
 	for (int i = 1; i <= n; i++)
 	{
-		s += i*i;
+		s += i * i;
 	}
-	cout << "Ket Qua Cua Phep Toan La :" << s << endl;
+
+	return s;
 }

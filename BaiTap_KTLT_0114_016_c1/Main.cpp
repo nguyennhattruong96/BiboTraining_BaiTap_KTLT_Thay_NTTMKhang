@@ -2,16 +2,16 @@
 
 #include <iostream>
 #include <string>
+#include <math.h>
 
 using namespace std;
 
 void main()
 {
-	int x = Input("Nhap Vao So Nguyen Duong x : ");
-	int n = Input("Nhap Vao So Nguyen Duong n : ");
+	int x = Input("Nhap Vao So Nguyen Duong X : ");
+	int n = Input("Nhap Vao So Nguyen Duong N : ");
 
-	 TinhTong(x, n);
+	TinhTong(x, n);
 
 	system("pause");
-
 }

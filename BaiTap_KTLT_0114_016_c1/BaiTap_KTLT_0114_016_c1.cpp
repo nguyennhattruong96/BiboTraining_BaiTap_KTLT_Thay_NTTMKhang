@@ -1,7 +1,5 @@
 #include "BaiTap_KTLT_0114_016_c1.h"
 
-
-
 int Input(string sMessage)
 {
 	int n;
@@ -21,14 +19,7 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
-void TinhTong(int x, int n)
+void Sum(int x, int n)
 {
 	double s = 0;
 	int mau = 0;
@@ -41,7 +32,6 @@ void TinhTong(int x, int n)
 
 	}
 
-	cout << "Ket Qua Phep Toan La : " << s << endl;
+	cout << "Ket Qua Cua Phep Toan La : " << s << endl;
 }
-
 
