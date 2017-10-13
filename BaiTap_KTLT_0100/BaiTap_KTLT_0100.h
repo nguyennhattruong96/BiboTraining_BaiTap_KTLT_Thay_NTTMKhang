@@ -10,8 +10,7 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
+ 
 void GiaiPhuongTrinhBacHai(float a, float b, float c);
 
 

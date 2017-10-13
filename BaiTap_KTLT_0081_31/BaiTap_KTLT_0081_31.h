@@ -10,10 +10,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 bool KiemTraSoNguyenTo(int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0081_31_H__
 

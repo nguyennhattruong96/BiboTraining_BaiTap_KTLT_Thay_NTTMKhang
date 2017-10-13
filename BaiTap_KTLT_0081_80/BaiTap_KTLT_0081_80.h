@@ -9,10 +9,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 void Sum(int x, int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0081_80_H__
 

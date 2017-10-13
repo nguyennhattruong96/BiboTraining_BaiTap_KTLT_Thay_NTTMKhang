@@ -9,6 +9,7 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
+
 void DocSoNguyen2ChuSo(int n);
 void DocSoNguyen(int n);
 

@@ -20,12 +20,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "ket qua la: " << n << endl;
-}
-
 void Sum(int n)
 {
 	double s = 0;

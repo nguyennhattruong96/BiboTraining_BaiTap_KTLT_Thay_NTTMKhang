@@ -20,13 +20,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
 bool KiemTra2k(int x)
 {
 	double k = log10((double)x) / log10(2.0);

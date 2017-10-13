@@ -12,7 +12,7 @@ int Input(string sMessage);
 
 void DocSoNguyen(int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0105_H__
 
 
 

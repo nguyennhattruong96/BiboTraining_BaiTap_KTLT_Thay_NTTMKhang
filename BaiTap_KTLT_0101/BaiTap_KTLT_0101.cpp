@@ -38,12 +38,6 @@ int InputThang(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
 bool KiemTraNamNhau(int nam)
 {
 	if ((nam % 400 == 0) || (nam % 4 == 0 && nam % 100 != 0))

@@ -9,9 +9,7 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 bool KiemTraSoChang(int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0081_58_H__

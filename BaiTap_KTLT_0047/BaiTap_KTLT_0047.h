@@ -9,10 +9,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 void TongChuSoChang(int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0047_H__
 

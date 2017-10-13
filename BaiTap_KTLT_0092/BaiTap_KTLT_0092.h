@@ -9,10 +9,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 void UocSoChung(int a, int b);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0092_H__
 

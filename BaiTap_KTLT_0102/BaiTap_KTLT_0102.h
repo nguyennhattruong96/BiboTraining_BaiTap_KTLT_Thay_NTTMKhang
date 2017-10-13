@@ -11,7 +11,7 @@ using namespace std;
 int InputNgay(string sMessage);
 int InputThang(string sMessage);
 int InputNam(string sMessage);
-void Output(int n);
+ 
 
 bool KiemTraNamNhuan(int nam);
 void NgayKeTiep(int ngay, int thang, int nam);

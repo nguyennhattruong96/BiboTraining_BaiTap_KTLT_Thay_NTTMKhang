@@ -9,8 +9,7 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
 
 double Tich(int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0009_H__

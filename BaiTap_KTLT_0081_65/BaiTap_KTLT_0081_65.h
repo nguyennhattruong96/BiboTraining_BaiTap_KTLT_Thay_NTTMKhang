@@ -10,10 +10,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 void GiaiPhuongTrinhBacHai(float a, float b, float c);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0081_65_H__
 

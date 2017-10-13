@@ -11,13 +11,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
 void So_Max(int a, int b, int c)
 {
 	int max = a;

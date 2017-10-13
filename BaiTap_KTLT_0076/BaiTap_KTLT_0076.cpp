@@ -20,13 +20,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
 bool KiemTra3k(int x)
 {
 	while (x != 0)

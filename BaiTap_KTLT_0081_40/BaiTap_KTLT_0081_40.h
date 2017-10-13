@@ -10,10 +10,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 double Sum(float x, int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0081_40_H__
 

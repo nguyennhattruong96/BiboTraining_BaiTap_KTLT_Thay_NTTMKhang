@@ -1,6 +1,4 @@
-
 #include "BaiTap_KTLT_0081_10.h"
-
 
 int Input(string sMessage)
 {
@@ -11,13 +9,6 @@ int Input(string sMessage)
 
 	return n;
 }
-
-
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
-
 
 void LuyThua(int x, int n)
 {

@@ -10,10 +10,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 double Tong(int x);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0070_H__
 

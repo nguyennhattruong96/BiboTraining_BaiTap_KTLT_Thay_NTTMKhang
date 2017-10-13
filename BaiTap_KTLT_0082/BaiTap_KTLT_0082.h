@@ -10,10 +10,8 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 void So_Max(int a, int b, int c);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0082_H__
 

@@ -12,5 +12,5 @@ int Input(string sMessage);
 
 double Sum(int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0003_H__
 

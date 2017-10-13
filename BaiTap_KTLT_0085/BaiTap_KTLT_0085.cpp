@@ -20,12 +20,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
 void KiemTraQuy(int thang)
 {
 	if (thang == 1 || thang == 2 || thang == 3)

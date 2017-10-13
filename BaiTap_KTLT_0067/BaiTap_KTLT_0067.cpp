@@ -21,13 +21,6 @@ int Input(string sMessage)
 
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
 void Tong(int x, int n)
 {
 	int s = 0;

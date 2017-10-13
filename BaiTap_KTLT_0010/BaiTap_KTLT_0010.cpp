@@ -11,13 +11,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
-
-
 double LuyThua(int x, int n)
 {
 	long double mu = 1;

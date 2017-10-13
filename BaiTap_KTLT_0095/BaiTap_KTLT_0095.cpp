@@ -11,12 +11,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "ket qua la: " << n << endl;
-}
-
 void TriTuyetDoi(int a, int b, int c)
 {
 	if (a < 0)

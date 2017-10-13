@@ -9,9 +9,7 @@ using namespace std;
 #pragma once
 
 int Input(string sMessage);
-void Output(int n);
-
 
 void SoLuongUocSoChang(int n);
 
-#endif // !
+#endif // !__BaiTap_KTLT_0027_H__

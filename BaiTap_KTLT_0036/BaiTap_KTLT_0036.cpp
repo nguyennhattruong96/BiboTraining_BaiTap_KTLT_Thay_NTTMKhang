@@ -20,13 +20,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
-
-
 double sum(int n)
 {
 	double s = sqrt(1.0);

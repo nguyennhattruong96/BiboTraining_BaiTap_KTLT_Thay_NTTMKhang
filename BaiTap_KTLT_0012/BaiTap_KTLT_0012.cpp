@@ -20,11 +20,6 @@ int Input(string sMessage)
 }
 
 
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
-
 //double Mu(int x, int n)
 //{
 //	long double mu = 1;

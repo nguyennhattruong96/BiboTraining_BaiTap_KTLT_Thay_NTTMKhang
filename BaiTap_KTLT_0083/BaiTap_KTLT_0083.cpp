@@ -10,14 +10,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
 bool KiemTraCungDau(int a, int b)
 {
 	if (a * b > 0)

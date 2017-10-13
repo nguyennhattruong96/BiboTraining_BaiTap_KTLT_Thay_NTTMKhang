@@ -10,5 +10,5 @@ using namespace std;
 
 void So_N();
 
-#endif // !
+#endif // !__BaiTap_KTLT_0087_H__
 

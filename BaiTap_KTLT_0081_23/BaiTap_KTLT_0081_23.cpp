@@ -20,13 +20,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
 void DemSoLuongUocSo(int x)
 {
 	int dem = 0;

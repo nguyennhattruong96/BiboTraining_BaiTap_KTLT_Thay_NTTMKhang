@@ -19,14 +19,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-
-void Output(int n)
-{
-	cout << "Ket qua la: " << n << endl;
-}
-
-
 void Sum(int x)
 {
 	double s = 0;

@@ -11,12 +11,6 @@ int Input(string sMessage)
 	return n;
 }
 
-
-void Output(int n)
-{
-	cout << "ket qua la: " << n << endl;
-}
-
 void KiemTraTamGiac(int a, int b, int c)
 {
 	if ((a + b > c) && (a + c > b) && (b + c > a))

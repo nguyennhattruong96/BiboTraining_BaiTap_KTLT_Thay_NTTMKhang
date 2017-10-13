@@ -10,11 +10,6 @@ int Input(string sMessage)
 	return n;
 }
 
-void Ouput(int n)
-{
-	cout << "Ket qua la:" << n << endl;
-}
-
 void InSoTang(int a, int b, int c)
 {
 	int temp;

@@ -19,11 +19,6 @@ int Input(string sMessage)
 	return n;
 }
 
-void Output(int n)
-{
-	cout << "ket qua la:" << n << endl;
-}
-
 double Tong(int x, int n)
 {
 	int s = 0;
