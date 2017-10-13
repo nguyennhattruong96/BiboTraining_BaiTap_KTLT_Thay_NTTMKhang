@@ -1,8 +1,8 @@
-#include "BaiTap_KTLT_0041.h"
+#include "BaiTap_KTLT_0114_043_c1.h"
 
 #include <iostream>
 #include <string>
-#include <cmath>
+
 
 using namespace std;
 
@@ -10,7 +10,7 @@ void main()
 {
 	int x = Input("Nhap Vao So Nguyen Duong X : ");
 
-	cout << "Ket Qua Cua Phep Toan La : " << Sum(x) << endl;
+	DemChuSo(x);
 
 	system("pause");
 }
